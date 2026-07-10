@@ -83,7 +83,7 @@ const members = {
     runningMonth    :"July 26",
     previousMonth   :"June-25", // new addDecember link https://grabify.link/P0IBKC
     upComingMonth   :"August 1,2026",
-    runningMealRate :61,
+    runningMealRate :66,
 
 //Continue for mass calculating {"04/08/25-Cash":4550}    
     "01922362569":{
@@ -99,7 +99,7 @@ const members = {
         garage_cost     :0,
         running_payable :2516,//2937
         running_paid    :500,
-        running_meal    :9,
+        running_meal    :10,
         // method 
         preMonth,
         runningDiningCost,
@@ -113,13 +113,13 @@ const members = {
         post_payable        :2537,
         previous_paid       :4500,
         previous_dining_cost:1770,
-        payment             :{"02/07/26-Cash":3000},
+        payment             :{"02/07/26-Cash":3000,"10/07/26-Cash":2000},
         // running month{"04/08/25-Cash":4550}
         stay_cost       :2300,
         garage_cost     :0,
         running_payable :2867,//2514
-        running_paid    :3000,
-        running_meal    :10,
+        running_paid    :5000,
+        running_meal    :12,
         // method calling
         preMonth,
         runningDiningCost,
@@ -133,13 +133,13 @@ const members = {
         post_payable        :5000,
         previous_paid       :7500,
         previous_dining_cost:2183,
-        payment             :undefined,
+        payment             :{"08/07/26-Cash":5000},
         // running month
         stay_cost       :3500,
         garage_cost     :0,
         running_payable :3943,//00
-        running_paid    :0,
-        running_meal    :18,
+        running_paid    :5000,
+        running_meal    :20,
         // method calling
         preMonth,
         runningDiningCost,
@@ -159,7 +159,7 @@ const members = {
         garage_cost     :0,
         running_payable :10491,//9050
         running_paid    :0,
-        running_meal    :17,
+        running_meal    :18,
         // method calling
         preMonth,
         runningDiningCost,
@@ -179,7 +179,7 @@ const members = {
         garage_cost     :0,
         running_payable :5043,//4433
         running_paid    :2500,
-        running_meal    :17,
+        running_meal    :19,
         // method calling
         preMonth,
         runningDiningCost,
@@ -194,13 +194,13 @@ const members = {
         post_payable        :2800,
         previous_paid       :5300,
         previous_dining_cost:3068,
-        payment             :{"02/07/26-Cash":500,"05/07/26-Cash":500,"07/07/26-Cash":3000},
+        payment             :{"02/07/26-Cash":500,"05/07/26-Cash":500,"07/07/26-Cash":3000,"09/07/26-Cash":500},
         // running month
         stay_cost       :2800,
         garage_cost     :0,
         running_payable :4128,
-        running_paid    :4000,
-        running_meal    :16,
+        running_paid    :4500,
+        running_meal    :19,
         // method calling
         preMonth,
         runningDiningCost,
@@ -214,13 +214,13 @@ const members = {
         post_payable        :4158,
         previous_paid       :6000,
         previous_dining_cost:1770,
-        payment             :{"06/07/26-Cash":5000},
+        payment             :{"06/07/26-Cash":5000,"09/07/26-Cash":1000},
         // running month
         stay_cost       :3500,
         garage_cost     :0,
         running_payable :4188,//4359
-        running_paid    :5000,
-        running_meal    :5,
+        running_paid    :6000,
+        running_meal    :6,
         // method calling
         preMonth,
         runningDiningCost,
@@ -240,7 +240,7 @@ const members = {
         garage_cost     :0,
         running_payable :17,//3488
         running_paid    :0,
-        running_meal    :10,
+        running_meal    :11,
         // method calling
         preMonth,
         runningDiningCost,
@@ -261,7 +261,7 @@ const members = {
         garage_cost     :0,
         running_payable :4066,//0
         running_paid    :810,
-        running_meal    :13,
+        running_meal    :15,
         // method calling
         preMonth,
         runningDiningCost,
